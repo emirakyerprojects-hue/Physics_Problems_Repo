@@ -70,11 +70,9 @@ A particle with energy $E = 3\ \mathrm{eV}$ approaches a potential barrier with 
 ## Problem 6 – Evolution of a wave packet (illustrative simulation)
 
 1. Build a Gaussian wave packet:
-
-   $$
-   \psi(x,0)=e^{-\frac{x^2}{2\sigma^2}} e^{ik_0 x}
-   $$
-
+$$
+\psi(x,0)=e^{-\frac{x^2}{2\sigma^2}} e^{ik_0 x}
+$$
 2. Implement the time evolution (FFT).
 3. Investigate the spreading of the packet.
 4. Interpret it in the context of the uncertainty principle.

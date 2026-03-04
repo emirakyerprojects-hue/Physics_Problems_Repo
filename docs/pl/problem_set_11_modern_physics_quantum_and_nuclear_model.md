@@ -66,9 +66,7 @@ leci cząstka o energii $E = 3\ \mathrm{eV}$
 ## Zadanie 6 – Ewolucja pakietu falowego (symulacja ilustracyjna)
 
 1. Zbuduj pakiet Gaussowski:
-
-   $$\psi(x,0)=e^{-\frac{x^2}{2\sigma^2}} e^{ik_0 x}$$
-
+$$\psi(x,0)=e^{-\frac{x^2}{2\sigma^2}} e^{ik_0 x}$$
 2. Zaimplementuj ewolucję w czasie (FFT).
 3. Zbadaj rozmywanie pakietu.
 4. Zinterpretuj w kontekście zasady nieoznaczoności.
